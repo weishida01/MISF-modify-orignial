@@ -1,0 +1,1 @@
+["CelebA/mask-test/celeba_01.png", "CelebA/mask-test/celeba_02.png", "CelebA/mask-test/celeba_03.png", "CelebA/mask-test/celeba_04.png", "CelebA/mask-test/celeba_05.png"]
